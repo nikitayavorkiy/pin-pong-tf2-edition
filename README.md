@@ -1,5 +1,8 @@
 # pin-pong-tf2-edition
 гра була створена на мемах онлайн гри від розробників valve team fortrest 2
+
+<img width="301" height="169" alt="image" src="https://github.com/user-attachments/assets/3bef487c-8f73-48f2-9dcb-0d5529fec7f9" />
+
 # 🎮 Онлайн Пінг-Понг (Python + Pygame)
 
 - 🧍 Гравці — це Heavy з TF2
@@ -9,6 +12,8 @@
 - 🎵 Фонова музика — з TF2, щоб був справжній vibe апгрейд станції
 
 Цей проєкт — **мемна адаптація класичного пінг-понгу**, створена для фану і ностальгії по TF2.
+
+
 <img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/a95c2607-ac98-4865-820d-3649becfd83d" />
 
 
@@ -143,5 +148,12 @@ pip install pygame
 python client.py
 
 Скріншоти з гри:
+
+<img width="803" height="598" alt="image" src="https://github.com/user-attachments/assets/b6bd17d1-563e-4159-acf8-67340d3c6276" />
+
+
+<img width="802" height="596" alt="image" src="https://github.com/user-attachments/assets/b2a77124-8afe-4519-91c1-af6be2417174" />
+
+
 
 ---
