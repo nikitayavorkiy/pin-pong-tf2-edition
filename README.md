@@ -19,6 +19,23 @@
 
 Це клієнтська частина багатокористувацької гри **Пінг-Понг**, створеної з використанням **Pygame** та **socket**. Ви граєте за персонажів у стилі TF2, керуючи ракетними важковаговиками на арені — з фоновою музикою та фановими звуками!
 
+Скріншоти з гри:
+
+
+
+
+<img width="803" height="598" alt="image" src="https://github.com/user-attachments/assets/b6bd17d1-563e-4159-acf8-67340d3c6276" />
+
+
+
+
+
+
+<img width="802" height="596" alt="image" src="https://github.com/user-attachments/assets/b2a77124-8afe-4519-91c1-af6be2417174" />
+
+
+
+
 ---
 
 ## 📦 Вміст
@@ -147,12 +164,6 @@ pip install pygame
 
 python client.py
 
-Скріншоти з гри:
-
-<img width="803" height="598" alt="image" src="https://github.com/user-attachments/assets/b6bd17d1-563e-4159-acf8-67340d3c6276" />
-
-
-<img width="802" height="596" alt="image" src="https://github.com/user-attachments/assets/b2a77124-8afe-4519-91c1-af6be2417174" />
 
 
 
